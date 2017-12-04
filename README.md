@@ -1,0 +1,2 @@
+# CrushedBot
+Un bot lol
